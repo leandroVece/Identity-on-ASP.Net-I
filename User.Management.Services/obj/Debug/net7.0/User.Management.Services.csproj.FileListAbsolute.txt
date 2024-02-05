@@ -1,0 +1,12 @@
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\bin\Debug\net7.0\User.Management.Services.deps.json
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\bin\Debug\net7.0\User.Management.Services.dll
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\bin\Debug\net7.0\User.Management.Services.pdb
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\obj\Debug\net7.0\User.Management.Services.csproj.AssemblyReference.cache
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\obj\Debug\net7.0\User.Management.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\obj\Debug\net7.0\User.Management.Services.AssemblyInfoInputs.cache
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\obj\Debug\net7.0\User.Management.Services.AssemblyInfo.cs
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\obj\Debug\net7.0\User.Management.Services.csproj.CoreCompileInputs.cache
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\obj\Debug\net7.0\User.Management.Services.dll
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\obj\Debug\net7.0\refint\User.Management.Services.dll
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\obj\Debug\net7.0\User.Management.Services.pdb
+D:\proyecto web c shrap\Proyecto Identity\User.Management.Services\obj\Debug\net7.0\ref\User.Management.Services.dll
